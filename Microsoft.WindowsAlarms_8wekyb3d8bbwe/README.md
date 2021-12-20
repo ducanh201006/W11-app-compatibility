@@ -13,7 +13,7 @@
 				Windows 10 1909<br>
 				<i>Build 18363</i>
 			</td>
-			<td align="center">Windows 10 20H1 and later</td>
+			<td align="center">Windows 10 2004 and later</td>
 		</tr>
 	</thead>
 	<tbody>
