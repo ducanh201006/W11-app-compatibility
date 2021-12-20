@@ -8,7 +8,11 @@
 			<th colspan=4>Tested Windows version</th>
 		</tr>
 		<tr>
-			<td align="center">Windows 10 1909 and earlier</td>
+			<td align="center">Windows 10 1903 and earlier</td>
+			<td align="center">
+				Windows 10 1909<br>
+				<i>Build 18363</i>
+			</td>
 			<td align="center">Windows 10 20H1 and later</td>
 		</tr>
 	</thead>
@@ -20,6 +24,7 @@
 				<i>Build 22000</i>
 			</td>
 			<td align="center">NOT SUPPORTED</td>
+			<td align="center">NOT TESTED</td>
 			<td align="center">SUPPORTED</td>
 		</tr>
 	</tbody>
