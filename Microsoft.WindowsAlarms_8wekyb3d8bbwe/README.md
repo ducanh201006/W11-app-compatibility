@@ -5,7 +5,7 @@
 		<tr>
 			<th rowspan=2>Version</th>
 			<th rowspan=2>Required Windows version</th>
-			<th colspan=4>Tested Windows version</th>
+			<th colspan=3>Tested Windows version</th>
 		</tr>
 		<tr>
 			<td align="center">Windows 10 1903 and earlier</td>
