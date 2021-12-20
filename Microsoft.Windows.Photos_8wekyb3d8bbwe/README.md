@@ -8,8 +8,8 @@
 			<th colspan=2>Tested Windows version</th>
 		</tr>
 		<tr>
-			<td align="center">Windows 10 1903 and earlier</td>
-			<td align="center">Windows 10 20H1 and later</td>
+			<td align="center">Windows 10 1909 and earlier</td>
+			<td align="center">Windows 10 2004 and later</td>
 		</tr>
 	</thead>
 	<tbody>
