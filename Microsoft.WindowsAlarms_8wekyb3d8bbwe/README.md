@@ -5,17 +5,11 @@
 		<tr>
 			<th rowspan=2>Version</th>
 			<th rowspan=2>Required Windows version</th>
-			<th colspan=2>Tested Windows version</th>
+			<th colspan=4>Tested Windows version</th>
 		</tr>
 		<tr>
-			<td align="center">
-				Windows 10 2004<br>
-				<i>Build 19041.264</i>
-			</td>
-			<td align="center">
-				Windows 10 21H2<br>
-				<i>Build 19044.1415</i>
-			</td>
+			<td align="center">Windows 10 1909 and earlier</td>
+			<td align="center">Windows 10 20H1 and later</td>
 		</tr>
 	</thead>
 	<tbody>
@@ -25,7 +19,7 @@
 				Windows 11 21H2<br>
 				<i>Build 22000</i>
 			</td>
-			<td align="center">SUPPORTED</td>
+			<td align="center">NOT SUPPORTED</td>
 			<td align="center">SUPPORTED</td>
 		</tr>
 	</tbody>
