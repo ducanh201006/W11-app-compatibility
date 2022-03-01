@@ -30,3 +30,43 @@ This page currently uses Unicode characters from [Unicode Emoji (1.0)](https://u
 		</tr>
 	</tbody>
 </table>
+
+## Paint
+<table>
+	<thead>
+		<tr>
+			<th>Version</th>
+			<th>Minimum Windows version</th>
+			<th>Tested Windows version</th>
+			<th>Support level</th>
+			<th>Known issue(s)</th>
+			<th>Notes</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>11.2201.22.0</td>
+			<td>10.0.22000.0</td>
+			<td>10.0.19044.1526</td>
+			<td>❌</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>11.2112.2.0</td>
+			<td>10.0.22000.0</td>
+			<td>10.0.19044.1526</td>
+			<td>❌</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>11.2110.43.0</td>
+			<td>10.0.22000.0</td>
+			<td>10.0.19044.1526</td>
+			<td>❌</td>
+			<td></td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
