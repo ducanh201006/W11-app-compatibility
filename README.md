@@ -7,6 +7,30 @@ This page currently uses Unicode characters from [Unicode Emoji (1.0)](https://u
 - ⚠️ Works, but with some notable problems
 - ❌ Broken
 
+## Clock
+<table>
+	<thead>
+		<tr>
+			<th>Version</th>
+			<th>Minimum Windows version</th>
+			<th>Tested Windows version</th>
+			<th>Support level</th>
+			<th>Known issue(s)</th>
+			<th>Notes</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
+
 ## Notepad
 <table>
 	<thead>
