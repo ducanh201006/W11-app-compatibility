@@ -1,4 +1,4 @@
-# Windows 11 UWP apps for Windows 10
+# Windows 11 UWP apps compatibility with Windows 10
 
 ## Legend
 This page currently uses Unicode characters from [Unicode Emoji (1.0)](https://unicode.org/Public/emoji/1.0/emoji-data.txt). If you are unable to see these characters, please open an issue.
